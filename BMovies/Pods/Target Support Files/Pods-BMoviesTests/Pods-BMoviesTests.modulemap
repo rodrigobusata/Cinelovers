@@ -1,6 +1,0 @@
-framework module Pods_BMoviesTests {
-  umbrella header "Pods-BMoviesTests-umbrella.h"
-
-  export *
-  module * { export * }
-}
