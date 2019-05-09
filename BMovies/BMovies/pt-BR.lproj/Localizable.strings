@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  BMovies
+
+  Created by Rodrigo Busata on 05/08/19.
+  Copyright © 2019 Busata. All rights reserved.
+*/
+
+"Release" = "Estreia";
+"Search Movies" ="Pesquisar Filmes";
+"MM/dd/yy" = "dd/MM/yy";
