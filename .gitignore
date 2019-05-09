@@ -1,4 +1,4 @@
-BMovies.xcodeproj/xcshareddata/
+BMovies/BMovies.xcodeproj/xcshareddata/
 .DS_Store
-Pods/
-BMovies.xcworkspace/xcuserdata/
+BMovies/Pods/
+BMovies/BMovies.xcworkspace/xcuserdata
