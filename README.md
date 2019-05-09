@@ -10,8 +10,8 @@ I used the [CocoaPods](https://cocoapods.org) as a dependency manager. So to bui
 ### Xcode 10.2.1
 To build this project we need the XCode version 10.2.1 or later.
 
-## Build Instructions
-Some third-party libraries ware used to improve the UX and performance, like that:
+## Libraries
+Some third-party libraries were used to improve the UX and performance, like that:
 ### iCarousel (https://github.com/nicklockwood/iCarousel)
 To create an amazing user experience I used this library to show some movies highlighted.  
 
