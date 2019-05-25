@@ -1,5 +1,5 @@
 # Cinelovers
-To show my iOS development skill I created this app using the best practices of UX/UI design, TDD and Restful APIs, getting data from TMDb API. This app is compatible on the iPhone and iPad both on the portrait as well as landscape.
+To practice my iOS development skill I created this app using the best practices of UX/UI design, TDD and Restful APIs, getting data from TMDb API. This app is compatible on the iPhone and iPad both on the portrait as well as landscape.
 
 ## Build Instructions
 ### Cocoapods
