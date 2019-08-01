@@ -1,0 +1,65 @@
+
+/* Class = "UILabel"; text = "#### / ####"; ObjectID = "3fP-Q6-gkn"; */
+"3fP-Q6-gkn.text" = "#### / ####";
+
+/* Class = "UILabel"; text = "Genres"; ObjectID = "63g-WO-2bT"; */
+"63g-WO-2bT.text" = "Gênero";
+
+/* Class = "UILabel"; text = "####### / ###### / #########"; ObjectID = "6Hr-4D-ZwO"; */
+"6Hr-4D-ZwO.text" = "####### / ###### / #########";
+
+/* Class = "UILabel"; text = "Overview"; ObjectID = "7fL-H8-wiQ"; */
+"7fL-H8-wiQ.text" = "Sinopse";
+
+/* Class = "UILabel"; text = "###############"; ObjectID = "90w-3b-gsx"; */
+"90w-3b-gsx.text" = "###############";
+
+/* Class = "UILabel"; text = "Original Name"; ObjectID = "CFG-qt-Dxm"; */
+"CFG-qt-Dxm.text" = "Nome Original";
+
+/* Class = "UINavigationItem"; title = "Highlights"; ObjectID = "CS8-L3-Pfe"; */
+"CS8-L3-Pfe.title" = "Destaques";
+
+/* Class = "UILabel"; text = "#########"; ObjectID = "ETT-Tp-HTk"; */
+"ETT-Tp-HTk.text" = "#########";
+
+/* Class = "UILabel"; text = "About"; ObjectID = "IeQ-Ih-kJ7"; */
+"IeQ-Ih-kJ7.text" = "Sobre";
+
+/* Class = "UILabel"; text = "####### ########### ###### ######## ######## ##### ##### #####"; ObjectID = "Pur-Fs-131"; */
+"Pur-Fs-131.text" = "####### ########### ###### ######## ######## ##### ##### #####";
+
+/* Class = "UINavigationItem"; title = "Movies"; ObjectID = "UED-Wp-Vl4"; */
+"UED-Wp-Vl4.title" = "Filmes";
+
+/* Class = "UILabel"; text = "###############"; ObjectID = "VjN-I5-5Iu"; */
+"VjN-I5-5Iu.text" = "###############";
+
+/* Class = "UILabel"; text = "############"; ObjectID = "cdM-wt-eid"; */
+"cdM-wt-eid.text" = "############";
+
+/* Class = "UITabBarItem"; title = "Movies"; ObjectID = "d94-DY-KKg"; */
+"d94-DY-KKg.title" = "Filmes";
+
+/* Class = "UITabBarItem"; title = "Highlights"; ObjectID = "kWk-kv-O4L"; */
+"kWk-kv-O4L.title" = "Destaques";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "mgA-3T-00P"; */
+"mgA-3T-00P.text" = "Nome";
+
+/* Class = "UILabel"; text = "Release ##/##/##"; ObjectID = "n0z-Ez-4lG"; */
+"n0z-Ez-4lG.text" = "Estreia ##/##/##";
+
+/* Class = "UILabel"; text = "No Result found"; ObjectID = "9eV-Qj-aoG"; */
+"9eV-Qj-aoG.text" = "Nenhum resultado encontrado";
+
+/* Class = "UIButton"; text = "Try Again"; ObjectID = "7mn-bK-axA"; */
+"7mn-bK-axA.normalTitle" = "Tentar Novamente";
+
+/* Class = "UIButton"; text = "Try Again"; ObjectID = "KDz-G2-reL"; */
+"KDz-G2-reL.normalTitle" = "Tentar Novamente";
+
+/* Class = "UIButton"; text = "Try Again"; ObjectID = "XD7-op-jqX"; */
+"XD7-op-jqX.normalTitle" = "Tentar Novamente";
+
+
